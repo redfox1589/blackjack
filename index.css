@@ -1,0 +1,48 @@
+ body {
+    background-image: url(стол.jpg);
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+ }
+
+ .container {
+   background: rgba(128, 128, 128, 0.437);
+   max-width: 40%;
+   margin: auto;
+   border: 2px solid rgba(42, 33, 33, 0.595);
+   border-radius: 5px;
+ }
+ 
+ h1 {
+    color: red;
+ }
+
+ #message-el {
+    font-style: italic;
+ }
+
+ button {
+    width: 150px;
+    height: 50px;
+    background: red;
+    border-radius: 7px;
+    border: none;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 2px;
+  }
+
+  .new-card {
+    width: 150px;
+    height: 50px;
+    background: blue;
+    border-radius: 7px;
+    border: none;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+  }
